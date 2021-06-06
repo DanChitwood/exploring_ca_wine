@@ -1,0 +1,119 @@
+﻿variety,year,subregion,bearing
+chardonnay,1971,san mateo,1
+cabernet_sauvignon,1971,el dorado,1
+cabernet_sauvignon,2020,siskiyou,1
+cabernet_sauvignon,2020,sutter,1
+cabernet_sauvignon,2020,trinity,1
+chardonnay,2020,siskiyou,1
+chardonnay,2020,ventura,1
+chardonnay,2020,yuba,1
+chardonnay,1971,madera,2
+chardonnay,2020,lassen,2
+cabernet_sauvignon,1971,solano,3
+chardonnay,2020,shasta,3
+cabernet_sauvignon,2020,glenn,4
+cabernet_sauvignon,2020,san bernardino,4
+chardonnay,1971,san luis obispo,5
+cabernet_sauvignon,1971,san mateo,5
+chardonnay,2020,humboldt,5
+cabernet_sauvignon,2020,san mateo,6
+cabernet_sauvignon,2020,tehama,6
+cabernet_sauvignon,1971,sacramento,7
+cabernet_sauvignon,2020,marin,7
+cabernet_sauvignon,2020,tuolumne,7
+cabernet_sauvignon,2020,ventura,7
+chardonnay,1971,santa cruz,8
+cabernet_sauvignon,1971,santa cruz,8
+chardonnay,2020,mariposa,8
+chardonnay,1971,san joaquin,9
+chardonnay,1971,santa barbera,9
+cabernet_sauvignon,1971,alameda,9
+cabernet_sauvignon,1971,san luis obispo,10
+cabernet_sauvignon,2020,shasta,12
+cabernet_sauvignon,2020,placer,13
+chardonnay,2020,los angeles,13
+cabernet_sauvignon,2020,santa cruz,14
+cabernet_sauvignon,2020,yuba,14
+cabernet_sauvignon,2020,humboldt,17
+cabernet_sauvignon,2020,mariposa,20
+chardonnay,2020,san diego,21
+cabernet_sauvignon,1971,merced,23
+chardonnay,2020,trinity,25
+chardonnay,1971,santa clara,26
+chardonnay,2020,marin,26
+chardonnay,2020,san mateo,31
+cabernet_sauvignon,2020,contra costa,35
+cabernet_sauvignon,1971,santa barbara,37
+cabernet_sauvignon,2020,kings,38
+cabernet_sauvignon,1971,kern,39
+cabernet_sauvignon,2020,butte,42
+cabernet_sauvignon,1971,lake,45
+chardonnay,2020,amador,46
+chardonnay,2020,colusa,56
+cabernet_sauvignon,2020,los angeles,64
+chardonnay,2020,calaveras,69
+chardonnay,1971,mendocino,70
+cabernet_sauvignon,1971,san joaquin,72
+chardonnay,2020,nevada,78
+cabernet_sauvignon,2020,colusa,81
+cabernet_sauvignon,1971,santa calra,92
+chardonnay,1971,monterey,99
+chardonnay,2020,el dorado,99
+chardonnay,2020,riverside,99
+cabernet_sauvignon,2020,calaveras,101
+cabernet_sauvignon,2020,san diego,123
+chardonnay,2020,santa cruz,151
+chardonnay,1971,alameda,153
+cabernet_sauvignon,1971,monterey,156
+cabernet_sauvignon,2020,nevada,172
+chardonnay,1971,sonoma,179
+cabernet_sauvignon,2020,riverside,199
+cabernet_sauvignon,1971,mendocino,227
+chardonnay,2020,santa clara,246
+chardonnay,2020,tulare,253
+chardonnay,2020,contra costa,265
+cabernet_sauvignon,2020,amador,313
+cabernet_sauvignon,2020,el dorado,317
+cabernet_sauvignon,2020,santa clara,370
+chardonnay,1971,napa,381
+cabernet_sauvignon,2020,san benito,384
+cabernet_sauvignon,2020,solano,411
+chardonnay,2020,lake,477
+cabernet_sauvignon,1971,san benito,513
+cabernet_sauvignon,2020,tulare,518
+chardonnay,2020,san benito,571
+chardonnay,2020,alameda,630
+cabernet_sauvignon,2020,yolo,631
+chardonnay,1971,san benito,688
+cabernet_sauvignon,1971,sonoma,695
+cabernet_sauvignon,2020,santa barbara,830
+chardonnay,2020,solano,944
+cabernet_sauvignon,2020,alameda,949
+cabernet_sauvignon,2020,fresno,953
+cabernet_sauvignon,2020,stanislaus,994
+chardonnay,2020,kern,1140
+chardonnay,2020,stanislaus,1199
+cabernet_sauvignon,2020,kern,1281
+cabernet_sauvignon,2020,merced,1836
+cabernet_sauvignon,1971,napa,1956
+chardonnay,2020,san luis obispo,2370
+chardonnay,2020,fresno,2385
+chardonnay,2020,merced,2800
+cabernet_sauvignon,2020,mendocino,2998
+cabernet_sauvignon,2020,madera,3370
+chardonnay,2020,santa barbara,3969
+chardonnay,2020,mendocino,4168
+chardonnay,2020,madera,4418
+cabernet_sauvignon,2020,sacramento,4494
+cabernet_sauvignon,2020,lake,4513
+chardonnay,2020,sacramento,4638
+cabernet_sauvignon,2020,monterey,5057
+chardonnay,2020,yolo,5362
+chardonnay,2020,napa,6537
+cabernet_sauvignon,2020,san joaquin,11872
+cabernet_sauvignon,2020,sonoma,12089
+chardonnay,2020,san joaquin,12214
+cabernet_sauvignon,2020,san luis obispo,14301
+chardonnay,2020,sonoma,15030
+chardonnay,2020,monterey,16758
+cabernet_sauvignon,2020,napa,21207
